@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/chetanchaudhari21/DSA/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/chetanchaudhari21/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/chetanchaudhari21/DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/chetanchaudhari21/DSA/tree/master/0905-sort-array-by-parity) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/chetanchaudhari21/DSA/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/chetanchaudhari21/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/chetanchaudhari21/DSA/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
