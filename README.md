@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/chetanchaudhari21/DSA/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/chetanchaudhari21/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/chetanchaudhari21/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chetanchaudhari21/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/chetanchaudhari21/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/chetanchaudhari21/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/chetanchaudhari21/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chetanchaudhari21/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/chetanchaudhari21/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chetanchaudhari21/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
