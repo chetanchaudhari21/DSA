@@ -3,7 +3,7 @@ class Solution {
         int low=0;
         int high=0;
 
-        long product=1;
+        int product=1;
         int count=0;
         while(high<nums.length)
         {
