@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/chetanchaudhari21/DSA/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/chetanchaudhari21/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/chetanchaudhari21/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/chetanchaudhari21/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chetanchaudhari21/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/chetanchaudhari21/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/chetanchaudhari21/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/chetanchaudhari21/DSA/tree/master/0904-fruit-into-baskets) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/chetanchaudhari21/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chetanchaudhari21/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chetanchaudhari21/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/chetanchaudhari21/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
