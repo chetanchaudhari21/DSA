@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/chetanchaudhari21/DSA/tree/master/0633-sum-of-square-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/chetanchaudhari21/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/chetanchaudhari21/DSA/tree/master/0905-sort-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/chetanchaudhari21/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
