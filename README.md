@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/chetanchaudhari21/DSA/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/chetanchaudhari21/DSA/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/chetanchaudhari21/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/chetanchaudhari21/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/chetanchaudhari21/DSA/tree/master/0904-fruit-into-baskets) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/chetanchaudhari21/DSA/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/chetanchaudhari21/DSA/tree/master/0905-sort-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/chetanchaudhari21/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
