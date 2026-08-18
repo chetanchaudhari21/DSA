@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/chetanchaudhari21/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chetanchaudhari21/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chetanchaudhari21/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/chetanchaudhari21/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/chetanchaudhari21/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chetanchaudhari21/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chetanchaudhari21/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/chetanchaudhari21/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
