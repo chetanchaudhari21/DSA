@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/chetanchaudhari21/DSA/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/chetanchaudhari21/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/chetanchaudhari21/DSA/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/chetanchaudhari21/DSA/tree/master/0567-permutation-in-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chetanchaudhari21/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/chetanchaudhari21/DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/chetanchaudhari21/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/chetanchaudhari21/DSA/tree/master/0125-valid-palindrome) |
@@ -131,4 +133,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/chetanchaudhari21/DSA/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chetanchaudhari21/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
