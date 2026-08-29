@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/chetanchaudhari21/DSA/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/chetanchaudhari21/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/chetanchaudhari21/DSA/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/chetanchaudhari21/DSA/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/chetanchaudhari21/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/chetanchaudhari21/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/chetanchaudhari21/DSA/tree/master/0414-third-maximum-number) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/chetanchaudhari21/DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/chetanchaudhari21/DSA/tree/master/0152-maximum-product-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chetanchaudhari21/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Counting
 |  |
