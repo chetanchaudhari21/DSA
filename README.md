@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/chetanchaudhari21/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/chetanchaudhari21/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/chetanchaudhari21/DSA/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/chetanchaudhari21/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/chetanchaudhari21/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/chetanchaudhari21/DSA/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/chetanchaudhari21/DSA/tree/master/0905-sort-array-by-parity) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/chetanchaudhari21/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chetanchaudhari21/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/chetanchaudhari21/DSA/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/chetanchaudhari21/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/chetanchaudhari21/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/chetanchaudhari21/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/chetanchaudhari21/DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/chetanchaudhari21/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/chetanchaudhari21/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/chetanchaudhari21/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/chetanchaudhari21/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
