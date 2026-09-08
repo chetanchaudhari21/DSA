@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chetanchaudhari21/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/chetanchaudhari21/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chetanchaudhari21/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/chetanchaudhari21/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chetanchaudhari21/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
