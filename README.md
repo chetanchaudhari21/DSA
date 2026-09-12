@@ -273,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chetanchaudhari21/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/chetanchaudhari21/DSA/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
