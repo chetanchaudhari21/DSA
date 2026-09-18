@@ -4,31 +4,25 @@ class Solution {
 
      int i=0;
 
+     StringBuilder sb =new StringBuilder();
+
+
      while(i<s.length())
      {
-        if(stack.empty())
+        if(sb.length()==0)
         {
-            stack.push(s.charAt(i));
+            sb.append(s.charAt(i));
         }
-        else if(stack.peek()==s.charAt(i))
+        else if(sb.charAt(sb.length()-1)==s.charAt(i))
         {
-            stack.pop();
+            sb.deleteCharAt(sb.length()-1);
         }
-        else{
-            stack.push(s.charAt(i));
+        else
+        {
+            sb.append(s.charAt(i));
         }
         i++;
-     }  
-
-     StringBuilder sb = new StringBuilder();
-
-
-     while(!stack.empty())
-     {
-        sb.append(stack.pop());
-        
      }
-
-     return sb.reverse().toString();
+     return sb.toString();
     }
 }
