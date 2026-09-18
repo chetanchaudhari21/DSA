@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chetanchaudhari21/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/chetanchaudhari21/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/chetanchaudhari21/DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/chetanchaudhari21/DSA/tree/master/0076-minimum-window-substring) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chetanchaudhari21/DSA/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chetanchaudhari21/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chetanchaudhari21/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/chetanchaudhari21/DSA/tree/master/0196-delete-duplicate-emails) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chetanchaudhari21/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
