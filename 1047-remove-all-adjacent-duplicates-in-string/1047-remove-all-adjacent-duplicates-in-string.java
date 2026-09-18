@@ -25,8 +25,8 @@ class Solution {
 
      while(!stack.empty())
      {
-        sb.append(stack.peek());
-        stack.pop();
+        sb.append(stack.pop());
+        
      }
 
      return sb.reverse().toString();
