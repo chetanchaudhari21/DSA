@@ -1,37 +1,37 @@
 class Solution {
     public boolean isValid(String s) {
-       Stack<Character> stack  = new Stack<>(); 
-       int i=0;
-        if(s.length()%2!=0)
+      char[] ch=new char[s.length()];
+
+      int top=-1;
+        char current;
+        char open;
+
+      for(int i=0;i<s.length();i++)
+      {
+        current=s.charAt(i);
+
+        if(current=='(' || current=='[' || current=='{')
         {
+            top++;
+            ch[top]=current;
+        }
+        else{
+            if(top==-1)
+            {
+                return false;
+            }
+
+            open=ch[top];
+            if((open == '(' && current == ')') ||
+                   (open == '[' && current == ']') ||
+                   (open == '{' && current == '}'))
+                   {
+                    top--;
+                   }
+            else 
             return false;
         }
-        
-       for(i=0;i<s.length();i++)
-       {
-        
-        char current=s.charAt(i);
-        if(stack.empty())
-        {
-            stack.push(s.charAt(i));
-            
-        }
-        
-        else if((stack.peek()=='{' && current=='}') || (stack.peek()=='[' && current== ']') || (stack.peek()=='(' && current==')'))
-        {
-            stack.pop();
-        }
-        else
-        {
-            stack.push(s.charAt(i));
-        }
-        
-
-       }
-       if(stack.empty())
-       {
-        return true;
-       }
-       return false;
+      }
+      return top==-1;
     }
 }
