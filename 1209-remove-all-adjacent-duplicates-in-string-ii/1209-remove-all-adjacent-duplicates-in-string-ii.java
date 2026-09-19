@@ -5,8 +5,9 @@ class Solution {
 
         for(int i = 0; i < s.length(); i++) {
 
+            char ch = s.charAt(i);
 
-            if(!stack.empty() && stack.peek()[0] == s.charAt(i)) {
+            if(!stack.empty() && stack.peek()[0] == ch) {
 
                 stack.peek()[1]++;
 
@@ -16,7 +17,7 @@ class Solution {
 
             } else {
 
-                stack.push(new int[]{s.charAt(i), 1});
+                stack.push(new int[]{ch, 1});
             }
         }
 
