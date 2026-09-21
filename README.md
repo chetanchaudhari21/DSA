@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/chetanchaudhari21/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/chetanchaudhari21/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/chetanchaudhari21/DSA/tree/master/0075-sort-colors) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/chetanchaudhari21/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/chetanchaudhari21/DSA/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/chetanchaudhari21/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chetanchaudhari21/DSA/tree/master/0268-missing-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/chetanchaudhari21/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/chetanchaudhari21/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/chetanchaudhari21/DSA/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/chetanchaudhari21/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chetanchaudhari21/DSA/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/chetanchaudhari21/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/chetanchaudhari21/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/chetanchaudhari21/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/chetanchaudhari21/DSA/tree/master/0682-baseball-game) |
