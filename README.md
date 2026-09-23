@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/chetanchaudhari21/DSA/tree/master/1859-sorting-the-sentence) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/chetanchaudhari21/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/chetanchaudhari21/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2390-removing-stars-from-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/chetanchaudhari21/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chetanchaudhari21/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/chetanchaudhari21/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/chetanchaudhari21/DSA/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/chetanchaudhari21/DSA/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chetanchaudhari21/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/chetanchaudhari21/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chetanchaudhari21/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/chetanchaudhari21/DSA/tree/master/1544-make-the-string-great) |
+| [2390-removing-stars-from-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
