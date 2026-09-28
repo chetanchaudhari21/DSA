@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/chetanchaudhari21/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/chetanchaudhari21/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2810-faulty-keyboard](https://github.com/chetanchaudhari21/DSA/tree/master/2810-faulty-keyboard) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/chetanchaudhari21/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chetanchaudhari21/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/chetanchaudhari21/DSA/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/chetanchaudhari21/DSA/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2810-faulty-keyboard](https://github.com/chetanchaudhari21/DSA/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chetanchaudhari21/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
