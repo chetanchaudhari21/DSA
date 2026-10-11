@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/chetanchaudhari21/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/chetanchaudhari21/DSA/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/chetanchaudhari21/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/chetanchaudhari21/DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chetanchaudhari21/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chetanchaudhari21/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/chetanchaudhari21/DSA/tree/master/2235-add-two-integers) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chetanchaudhari21/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/chetanchaudhari21/DSA/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/chetanchaudhari21/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/chetanchaudhari21/DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/chetanchaudhari21/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/chetanchaudhari21/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/chetanchaudhari21/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
