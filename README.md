@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/chetanchaudhari21/DSA/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chetanchaudhari21/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chetanchaudhari21/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1552-magnetic-force-between-two-balls](https://github.com/chetanchaudhari21/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1672-richest-customer-wealth](https://github.com/chetanchaudhari21/DSA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/chetanchaudhari21/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/chetanchaudhari21/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/chetanchaudhari21/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/chetanchaudhari21/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chetanchaudhari21/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1552-magnetic-force-between-two-balls](https://github.com/chetanchaudhari21/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/chetanchaudhari21/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sorting
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/chetanchaudhari21/DSA/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/chetanchaudhari21/DSA/tree/master/0905-sort-array-by-parity) |
 | [1288-remove-covered-intervals](https://github.com/chetanchaudhari21/DSA/tree/master/1288-remove-covered-intervals) |
+| [1552-magnetic-force-between-two-balls](https://github.com/chetanchaudhari21/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1859-sorting-the-sentence](https://github.com/chetanchaudhari21/DSA/tree/master/1859-sorting-the-sentence) |
 | [2706-buy-two-chocolates](https://github.com/chetanchaudhari21/DSA/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/chetanchaudhari21/DSA/tree/master/3536-maximum-product-of-two-digits) |
