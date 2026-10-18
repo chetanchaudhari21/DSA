@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/chetanchaudhari21/DSA/tree/master/0456-132-pattern) |
 | [0495-teemo-attacking](https://github.com/chetanchaudhari21/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/chetanchaudhari21/DSA/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/chetanchaudhari21/DSA/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/chetanchaudhari21/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chetanchaudhari21/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/chetanchaudhari21/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/chetanchaudhari21/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chetanchaudhari21/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/chetanchaudhari21/DSA/tree/master/0414-third-maximum-number) |
+| [0502-ipo](https://github.com/chetanchaudhari21/DSA/tree/master/0502-ipo) |
 | [0905-sort-array-by-parity](https://github.com/chetanchaudhari21/DSA/tree/master/0905-sort-array-by-parity) |
 | [1288-remove-covered-intervals](https://github.com/chetanchaudhari21/DSA/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/chetanchaudhari21/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/chetanchaudhari21/DSA/tree/master/0502-ipo) |
 | [2706-buy-two-chocolates](https://github.com/chetanchaudhari21/DSA/tree/master/2706-buy-two-chocolates) |
 ## Design
 |  |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chetanchaudhari21/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/chetanchaudhari21/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chetanchaudhari21/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/chetanchaudhari21/DSA/tree/master/0502-ipo) |
 ## Interactive
 |  |
 | ------- |
