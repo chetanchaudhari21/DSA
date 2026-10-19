@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/chetanchaudhari21/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/chetanchaudhari21/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/chetanchaudhari21/DSA/tree/master/1929-concatenation-of-array) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/chetanchaudhari21/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/chetanchaudhari21/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/chetanchaudhari21/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chetanchaudhari21/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/chetanchaudhari21/DSA/tree/master/0502-ipo) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/chetanchaudhari21/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2706-buy-two-chocolates](https://github.com/chetanchaudhari21/DSA/tree/master/2706-buy-two-chocolates) |
 ## Design
 |  |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/chetanchaudhari21/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/chetanchaudhari21/DSA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/chetanchaudhari21/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/chetanchaudhari21/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/chetanchaudhari21/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Interactive
 |  |
