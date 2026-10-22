@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/chetanchaudhari21/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/chetanchaudhari21/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chetanchaudhari21/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2233-maximum-product-after-k-increments](https://github.com/chetanchaudhari21/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2418-sort-the-people](https://github.com/chetanchaudhari21/DSA/tree/master/2418-sort-the-people) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/chetanchaudhari21/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/chetanchaudhari21/DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/chetanchaudhari21/DSA/tree/master/0502-ipo) |
 | [1792-maximum-average-pass-ratio](https://github.com/chetanchaudhari21/DSA/tree/master/1792-maximum-average-pass-ratio) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/chetanchaudhari21/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2233-maximum-product-after-k-increments](https://github.com/chetanchaudhari21/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2706-buy-two-chocolates](https://github.com/chetanchaudhari21/DSA/tree/master/2706-buy-two-chocolates) |
 ## Design
 |  |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-maximum-average-pass-ratio](https://github.com/chetanchaudhari21/DSA/tree/master/1792-maximum-average-pass-ratio) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/chetanchaudhari21/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/chetanchaudhari21/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2233-maximum-product-after-k-increments](https://github.com/chetanchaudhari21/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/chetanchaudhari21/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Interactive
 |  |
