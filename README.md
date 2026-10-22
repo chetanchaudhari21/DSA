@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/chetanchaudhari21/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chetanchaudhari21/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/chetanchaudhari21/DSA/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/chetanchaudhari21/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/chetanchaudhari21/DSA/tree/master/0502-ipo) |
 | [0905-sort-array-by-parity](https://github.com/chetanchaudhari21/DSA/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/chetanchaudhari21/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/chetanchaudhari21/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/chetanchaudhari21/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/chetanchaudhari21/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/chetanchaudhari21/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/chetanchaudhari21/DSA/tree/master/0904-fruit-into-baskets) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/chetanchaudhari21/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/chetanchaudhari21/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/chetanchaudhari21/DSA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/chetanchaudhari21/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chetanchaudhari21/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/chetanchaudhari21/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/chetanchaudhari21/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/chetanchaudhari21/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Simulation
 |  |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chetanchaudhari21/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/chetanchaudhari21/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chetanchaudhari21/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/chetanchaudhari21/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/chetanchaudhari21/DSA/tree/master/0502-ipo) |
 | [0973-k-closest-points-to-origin](https://github.com/chetanchaudhari21/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/chetanchaudhari21/DSA/tree/master/1046-last-stone-weight) |
@@ -486,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/chetanchaudhari21/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/chetanchaudhari21/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Geometry
 |  |
 | ------- |
