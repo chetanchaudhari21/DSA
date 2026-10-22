@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/chetanchaudhari21/DSA/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chetanchaudhari21/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chetanchaudhari21/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2974-minimum-number-game](https://github.com/chetanchaudhari21/DSA/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/chetanchaudhari21/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chetanchaudhari21/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/chetanchaudhari21/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/chetanchaudhari21/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/chetanchaudhari21/DSA/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/chetanchaudhari21/DSA/tree/master/2706-buy-two-chocolates) |
+| [2974-minimum-number-game](https://github.com/chetanchaudhari21/DSA/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/chetanchaudhari21/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/chetanchaudhari21/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2810-faulty-keyboard](https://github.com/chetanchaudhari21/DSA/tree/master/2810-faulty-keyboard) |
+| [2974-minimum-number-game](https://github.com/chetanchaudhari21/DSA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chetanchaudhari21/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/chetanchaudhari21/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/chetanchaudhari21/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/chetanchaudhari21/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2974-minimum-number-game](https://github.com/chetanchaudhari21/DSA/tree/master/2974-minimum-number-game) |
 ## Interactive
 |  |
 | ------- |
