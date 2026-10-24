@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/chetanchaudhari21/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chetanchaudhari21/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/chetanchaudhari21/DSA/tree/master/2233-maximum-product-after-k-increments) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/chetanchaudhari21/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2418-sort-the-people](https://github.com/chetanchaudhari21/DSA/tree/master/2418-sort-the-people) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/chetanchaudhari21/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/chetanchaudhari21/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/chetanchaudhari21/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/chetanchaudhari21/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/chetanchaudhari21/DSA/tree/master/0905-sort-array-by-parity) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/chetanchaudhari21/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/chetanchaudhari21/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Binary Search
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/chetanchaudhari21/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/chetanchaudhari21/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chetanchaudhari21/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/chetanchaudhari21/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/chetanchaudhari21/DSA/tree/master/1859-sorting-the-sentence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/chetanchaudhari21/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chetanchaudhari21/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/chetanchaudhari21/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2418-sort-the-people](https://github.com/chetanchaudhari21/DSA/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/chetanchaudhari21/DSA/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/chetanchaudhari21/DSA/tree/master/2974-minimum-number-game) |
