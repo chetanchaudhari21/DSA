@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chetanchaudhari21/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chetanchaudhari21/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/chetanchaudhari21/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/chetanchaudhari21/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/chetanchaudhari21/DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/chetanchaudhari21/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chetanchaudhari21/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chetanchaudhari21/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/chetanchaudhari21/DSA/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/chetanchaudhari21/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/chetanchaudhari21/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chetanchaudhari21/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/chetanchaudhari21/DSA/tree/master/0567-permutation-in-string) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/chetanchaudhari21/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/chetanchaudhari21/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/chetanchaudhari21/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/chetanchaudhari21/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/chetanchaudhari21/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chetanchaudhari21/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/chetanchaudhari21/DSA/tree/master/0347-top-k-frequent-elements) |
